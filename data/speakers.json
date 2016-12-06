@@ -194,8 +194,8 @@
     "company": "-",
     "country": "Kuala Lumpur, Malaysia",
     "photoUrl": "/images/people/kevin.jpg",
-    "shortBio": "TBA",
-    "bio": "TBA",
+    "shortBio": "Kevin has done various Android apps for a living, as well as enterprise web projects...",
+    "bio": "Kevin has done various Android apps for a living, as well as enterprise web projects. He does a lot of R&D on his free time and does his best in shorten his development time and streamline processes by doing some minor automation work.",
     "tags": [
       "Android"
     ],
@@ -218,12 +218,12 @@
     "id": "nazrul",
     "featured": false,
     "name": "Nazrul Kamaruddin",
-    "title": "Lead Organizer",
-    "company": "GDG Kuala Lumpur",
+    "title": "Head of Technology",
+    "company": "Sparkline.com",
     "country": "Kuala Lumpur, Malaysia",
     "photoUrl": "/images/people/nazrul.jpg",
-    "shortBio": "TBA",
-    "bio": "TBA",
+    "shortBio": "Nazrul heads the engineering team at Sparkline.com, with a mission to democratise the digital data landscape...",
+    "bio": "Nazrul heads the engineering team at Sparkline.com, with a mission to democratise the digital data landscape and make data driven decision tools accessible to every business. He has been developing software for more than 16 years, mostly Web applications, designing API backend architecture & services and dabbles in mobile development.<br><br>The founder of Google Developer Groups (GDG) Kuala Lumpur, Nazrul has contributed his personal time in organising events & building a community of people who is interested in Google developer platforms since 2009. His biggest achievement is to organized the largest GDG Devfest Kuala Lumpur in 2013 attended by 1000 software professionals and students.<br><br>Nowadays, he contributes his time & effort to the Drupal open source software project as a developer and as an association member. He is a regular speaker at PyCon Malaysia and other tech community events globally.<br><br>He intends to travel the world with his wife & 2 really cute cats. No one gets left behind.",
     "tags": [
       "Android"
     ],
@@ -357,7 +357,7 @@
     "company": "AIO Synergy Solutions",
     "country": "Kuala Lumpur, Malaysia",
     "photoUrl": "/images/people/noelchew.png",
-    "shortBio": "Noel Chew is an Android Developer from AIO Synergy Solutions...",
+    "shortBio": "Noel Chew is an Android Developer from AIO Synergy Solutions. Coming from an Electrical and Computer Systems Engineering background...",
     "bio": "Noel Chew is an Android Developer from AIO Synergy Solutions. Coming from an Electrical and Computer Systems Engineering background, he has been involved in multiple projects across a variety of features such as building security system, real estate management system, chat messaging applications, etc. He is also an active hackathon participant and has won several hackathons over the last few years. Most notably, his team won AngelHack KL 2015 and represented Malaysia to pitch in Silicon Valley. ",
     "tags": [
       "Android"
@@ -399,10 +399,10 @@
     "company": "Pconnex (Fintech)",
     "country": "Malaysia",
     "photoUrl": "/images/people/jenna.jpg",
-    "shortBio": "Five words. Fintech, law, marketing, events and teaching. Dare to dream and be bold...",
-    "bio": "Five words. Fintech, law, marketing, events and teaching. Dare to dream and be bold! Sometimes, you may catch her dancing the night away with her friends.",
+    "shortBio": "Fintech. Founder of startup. (Used to be lawyer! ) Passionate about building a robust startup and fintech ecosystem.",
+    "bio": "Fintech. Founder of startup. (Used to be lawyer! ) Passionate about building a robust startup and fintech ecosystem.",
     "tags": [
-      "General"
+      "Community"
     ],
     "socials": [
       {
@@ -428,7 +428,7 @@
     "shortBio": "Xun is regarded as a Tech Evangelist, having began his freelancing programming career at age of 16...",
     "bio": "Xun is regarded as a Tech Evangelist, having began his freelancing programming career at age of 16, and is already an industry expert majoring in programming frameworks like NodeJs, AngularJS, Amazon Web Services, Docker, SQL, NoSQL, Swift, Objective-C, PHP and many more. A shining example of starting young and going global, Xun has amassed his experiences, consulting and developing programmes for 8 startups, from Malaysia to the Australia, United Kingdom and the United States. With his long track-record, Xun fondly recalls his most memorable contribution was to help PhD lecturers in universities in their research work while he was only in his Third Year of studies, while being offered to study PhD himself in University Malaya. Xun is passionate in teaching product development.",
     "tags": [
-      "General"
+      "Docker"
     ],
     "socials": [
       {
@@ -442,29 +442,43 @@
     "id": "faez",
     "featured": false,
     "name": "Faez Murshidi bin Adnan",
-    "title": "",
-    "company": "",
+    "title": "Android Developer",
+    "company": "Buuuk",
     "country": "Malaysia",
-    "photoUrl": "/images/people/avatar.png",
+    "photoUrl": "/images/people/faez.jpg",
     "shortBio": "Faez is a software engineer and a machine learning enthusiast. He's been doing Android for about two years...",
     "bio": "Faez is a software engineer and a machine learning enthusiast. He's been doing Android for about two years and now currently work at Buuuk as Android dev. Apart from geeking out and watch unboxing videos of the stuff that he can't afford, He also love to explore and try new things especially that revolves around tech and do fun personal projects during my free time. Also enjoys reading news on local startup scene especially in the healthcare space. Constantly learning.",
     "tags": [
-      "General"
-    ]
+      "Android"
+    ],
+    "socials": [
+      {
+        "name": "Facebook",
+        "icon": "facebook",
+        "link": "https://www.facebook.com/faezzzz"
+      }
+    ]        
   },
-  "bong": {
-    "id": "bong",
+  "sam": {
+    "id": "sam",
     "featured": false,
-    "name": "Bong Siew Yong",
-    "title": "          ",
-    "company": "",
+    "name": "Sam Baxendale",
+    "title": "",
+    "company": "Ambition Asia",
     "country": "Malaysia",
-    "photoUrl": "/images/people/avatar.png",
-    "shortBio": "TBA",
-    "bio": "TBA",
+    "photoUrl": "/images/people/sam.jpg",
+    "shortBio": "Sam is an experienced recruitment professional, he started his career in the industry in 2001...",
+    "bio": "Sam Baxendale is an experienced recruitment professional, he started his career in the industry in 2001 and has launched and led numerous new business operations across the UK and Asia. He is currently responsible for Ambition's growing Malaysia operation covering the Technology, Digital, Finance & Accounting and Banking Operations & Business Change sectors as well as Contract Services business.",
     "tags": [
-        "General"
-    ]
+        "Community"
+    ],
+    "socials": [
+      {
+        "name": "Linkedin",
+        "icon": "linkedin",
+        "link": "https://linkedin.com/in/sambaxendale"
+      }
+    ]      
   },
   "vick": {
     "id": "vick",

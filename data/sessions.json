@@ -70,7 +70,7 @@
   },
   "203": {
     "id": 203,
-    "title": "Bots and Google Analytics",
+    "title": "Building a Chatbot using Google developer platforms",
     "description": "",
     "speakers": [
       "nazrul"
@@ -110,7 +110,7 @@
   "206": {
     "id": 206,
     "title": "Make The Web Great Again: What Comes Next for the Web",
-    "description": "Henry shares the next visionary steps for the web, with Progressive Web Apps, Accelerated Mobile Pages, Physical Web, WebVR and more.",
+    "description": "Henry will share the next visionary steps for the web, with Progressive Web Apps, Accelerated Mobile Pages, Physical Web, WebVR and more.",
     "speakers": [
       "henrylim"
     ],
@@ -205,7 +205,7 @@
     "title": "What do employer look for in hiring developers",
     "description": "",
     "speakers": [
-      "bong"
+      "sam"
     ],
     "language": "English",
     "complexity": "Intermediate",
@@ -241,7 +241,7 @@
   },
   "402": {
     "id": 402,
-    "title": "Workshop - Firebase",
+    "title": "Workshop - Firebase X Android",
     "description": "",
     "speakers": [
       "qamra"
@@ -249,7 +249,8 @@
     "language": "English",
     "complexity": "Intermediate",
     "tags": [
-      "Firebase"
+      "Firebase",
+      "Android"
     ]
   }                            
 }
