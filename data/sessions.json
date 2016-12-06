@@ -2,14 +2,12 @@
   "140": {
     "id": 140,
     "title": "TBD",
-    "description": "TBD",
-    "language": "English"
+    "description": "TBD"
   },
   "139": {
     "id": 139,
     "title": "Keynote",
     "description": "",
-    "language": "English",
     "speakers": [
       "bok"
     ],
@@ -20,27 +18,28 @@
   "138": {
     "id": 138,
     "title": "Closing & Photo Session",
-    "description": "",
-    "image": "/images/backgrounds/closing.jpg"
+    "description": ""
   },
   "136": {
     "id": 136,
-    "title": "GDG DevFest Ukraine 2016 Opening",
-    "description": "Official start of the conference. Greetings from the organizers, sponsors and partners.",
-    "language": "English",
-    "image": "/images/backgrounds/opening.jpg"
+    "title": "GDG DevFest Kuala Lumpur 2016 Opening",
+    "description": "Official start of the conference. Greetings from the organizers.",
+    "speakers": [
+      "nazlina"
+    ],
+    "tags": [
+      "General"
+    ]
   },
   "133": {
     "id": 133,
     "title": "Lunch",
-    "description": "Foooooooood!",
-    "image": "/images/backgrounds/lunch.jpg"
+    "description": "Foooooooood!"
   },
   "132": {
     "id": 132,
     "title": "Registration & morning Coffee",
-    "description": "Get your badge, coffee, enjoy talking with tech edicts around",
-    "image": "/images/backgrounds/registration.jpg"
+    "description": "Get your badge, coffee, enjoy talking with tech edicts around"
   },
   "201": {
     "id": 201,
@@ -49,8 +48,6 @@
     "speakers": [
       "takuo"
     ],
-    "language": "English",
-    "complexity": "Intermediate",
     "tags": [
       "Material Design"
     ]
@@ -62,8 +59,6 @@
     "speakers": [
       "taylor"
     ],
-    "language": "English",
-    "complexity": "Intermediate",
     "tags": [
       "Material Design"
     ]
@@ -75,8 +70,6 @@
     "speakers": [
       "nazrul"
     ],
-    "language": "English",
-    "complexity": "Intermediate",
     "tags": [
       "AI"
     ]
@@ -88,8 +81,6 @@
     "speakers": [
       "vick"
     ],
-    "language": "English",
-    "complexity": "Intermediate",
     "tags": [
       "Docker"
     ]
@@ -101,8 +92,6 @@
     "speakers": [
       "lianxun"
     ],
-    "language": "English",
-    "complexity": "Intermediate",
     "tags": [
       "Docker"
     ]
@@ -114,8 +103,6 @@
     "speakers": [
       "henrylim"
     ],
-    "language": "English",
-    "complexity": "Intermediate",
     "tags": [
       "Web",
       "Progressive Web Apps"
@@ -128,8 +115,6 @@
     "speakers": [
       "hideyoshi"
     ],
-    "language": "English",
-    "complexity": "Intermediate",
     "tags": [
       "Firebase"
     ]
@@ -141,8 +126,6 @@
     "speakers": [
       "noel"
     ],
-    "language": "English",
-    "complexity": "Intermediate",
     "tags": [
       "Firebase",
       "Android"
@@ -155,8 +138,6 @@
     "speakers": [
       "andhie"
     ],
-    "language": "English",
-    "complexity": "Intermediate",
     "tags": [
       "Android"
     ]
@@ -168,8 +149,6 @@
     "speakers": [
       "kevin"
     ],
-    "language": "English",
-    "complexity": "Intermediate",
     "tags": [
       "Android"
     ]
@@ -181,8 +160,6 @@
     "speakers": [
       "jenna"
     ],
-    "language": "English",
-    "complexity": "Intermediate",
     "tags": [
       "Community"
     ]
@@ -194,8 +171,6 @@
     "speakers": [
       "faez"
     ],
-    "language": "English",
-    "complexity": "Intermediate",
     "tags": [
       "Android"
     ]
@@ -207,8 +182,6 @@
     "speakers": [
       "sam"
     ],
-    "language": "English",
-    "complexity": "Intermediate",
     "tags": [
       "Community"
     ]
@@ -220,23 +193,20 @@
     "speakers": [
       "wenjiun"
     ],
-    "language": "English",
-    "complexity": "Intermediate",
     "tags": [
       "Tango"
     ]
   },
   "401": {
     "id": 401,
-    "title": "Workshop - Progressive Web Apps",
+    "title": "Workshop - Progressive Web Apps and Firebase",
     "description": "",
     "speakers": [
       "jt"
     ],
-    "language": "English",
-    "complexity": "Intermediate",
     "tags": [
-      "Progressive Web Apps"
+      "Progressive Web Apps",
+      "Firebase"
     ]
   },
   "402": {
@@ -246,8 +216,6 @@
     "speakers": [
       "qamra"
     ],
-    "language": "English",
-    "complexity": "Intermediate",
     "tags": [
       "Firebase",
       "Android"

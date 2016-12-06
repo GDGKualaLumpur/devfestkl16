@@ -130,7 +130,7 @@
         "ends": "early-ticket-ends",        
         "currency": "",
         "info": "early-ticket-info",
-        "soldOut": false
+        "soldOut": true
       },
       {
         "name": "standard-ticket",
@@ -139,15 +139,24 @@
         "ends": "standard-ticket-ends",           
         "currency": "",
         "info": "standard-ticket-info",
-        "soldOut": false
-      }
+        "soldOut": true
+      },
+      {
+        "name": "extra-ticket",
+        "price": "Free",
+        "starts": "extra-ticket-starts",
+        "ends": "extra-ticket-ends",           
+        "currency": "",
+        "info": "extra-ticket-info",
+        "soldOut": true
+      }      
     ]
   },
   "teamPageTitle": "team-page-title",
   "teamPageText": "team-page-text",
   "statistics": [
     {
-      "counter": 300,
+      "counter": 400,
       "caption": "attendees"
     },
     {
@@ -159,13 +168,13 @@
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "GDG Kuala Lumpur",
+      "url": "https://twitter.com/gdgkl"
     },
     {
       "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "nickname": "+GdgMy",
+      "url": "https://plus.google.com/+GdgMy"
     },
     {
       "name": "facebook",
@@ -188,13 +197,13 @@
     "apiKey": "",
     "link": "https://www.facebook.com/expopivdennij",
     "pointer": {
-      "latitude": 3.0552500,
-      "longitude": 101.7005278,
+      "latitude": 3.048255,
+      "longitude": 101.692906,
       "zoom": 17
     },
     "mapCenter": {
-      "latitude": 3.0552500,
-      "longitude": 101.7015278
+      "latitude": 3.04860219253355,
+      "longitude": 101.69589370961763
     },
     "images": [
       "/images/backgrounds/apu.jpg"
