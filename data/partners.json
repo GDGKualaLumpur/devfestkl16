@@ -17,13 +17,7 @@
         "name": "Google",
         "url": "https://www.google.com.ua/intl/en/about/",
         "logoUrl": "../images/logos/google.svg"
-      },
-      {
-        "name": "APU",
-        "url": "http://www.apu.edu.my/",
-        "logoUrl": "../images/logos/apu.png",
-        "height": 120
-      }      
+      } 
     ]
   }
 ]
